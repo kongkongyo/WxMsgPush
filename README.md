@@ -4,7 +4,7 @@
 ## 相关平台
 * [息知](https://xz.qqoq.net/#/index) 一对一、群组
 * [WxPusher](https://wxpusher.zjiecode.com/docs/#/) 一对一、群组
-* [Showdoc Push](https://push.showdoc.com.cn/#/) 一对一
+* [Showdoc](https://push.showdoc.com.cn/#/) 一对一
 * [PushPlus](https://www.pushplus.plus/) 一对一、群组    (免费额度：200次/天)
 * [WPUSH](https://wpush.cn/) 一对一、群组    (免费额度：200次/天) 
 * [AnPush](https://anpush.com/) 一对一    (免费额度：30次/天)  
