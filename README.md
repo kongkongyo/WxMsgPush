@@ -12,5 +12,5 @@
 * [一封传话](https://www.phprm.com/push/h5/)
 
 ## 鸣谢相关项目
-* [https://github.com/guanguans/laravel-exception-notify](https://github.com/guanguans/laravel-exception-notify)
+* [https://github.com/guanguans/notify](https://github.com/guanguans/notify)
 * [https://github.com/guanguans/yii-log-target](https://github.com/guanguans/yii-log-target)
