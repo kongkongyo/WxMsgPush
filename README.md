@@ -13,4 +13,5 @@
 
 ## 鸣谢相关项目
 * [https://github.com/guanguans/notify](https://github.com/guanguans/notify)
+* [https://github.com/HCLonely/all-pusher-api](https://github.com/HCLonely/all-pusher-api)
 * [https://github.com/guanguans/yii-log-target](https://github.com/guanguans/yii-log-target)
