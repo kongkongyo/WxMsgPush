@@ -3,12 +3,12 @@
 
 ## 相关平台
 * [息知](https://xz.qqoq.net/#/index)
-* [PushPlus](https://www.pushplus.plus/)
 * [WxPusher](https://wxpusher.zjiecode.com/docs/#/)
 * [Showdoc Push](https://push.showdoc.com.cn/#/)
 * [Server 酱](https://sct.ftqq.com) 免费额度：5次/天
 * [anpush](https://anpush.com/) 免费额度：30次/天
 * [wpush](https://wpush.cn/) 免费额度：200次/天
+* [PushPlus](https://www.pushplus.plus/) 免费额度：200次/天
 * [一封传话](https://www.phprm.com/push/h5/)
 
 ## 鸣谢相关项目
