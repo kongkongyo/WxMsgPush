@@ -9,8 +9,8 @@
 * [WPUSH](https://wpush.cn/) 免费额度：200次/天
 * [AnPush](https://anpush.com/) 免费额度：30次/天
 * [Server 酱](https://sct.ftqq.com) 免费额度：5次/天
+* [爱语飞飞](https://iyuu.cn/) 20次/小时
 * [一封传话](https://www.phprm.com/push/h5/)
-* [爱语飞飞](https://iyuu.cn/)
 
 ## 鸣谢相关项目
 * [https://github.com/guanguans/notify](https://github.com/guanguans/notify)
