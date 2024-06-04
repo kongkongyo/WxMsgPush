@@ -4,6 +4,8 @@
 ## 相关平台
 * [PushPlus](https://www.pushplus.plus/)
 * [WxPusher](https://wxpusher.zjiecode.com/docs/#/)
+* [anpush](https://anpush.com/)
+* [wpush](https://wpush.cn/)
 * [Showdoc Push](https://push.showdoc.com.cn/#/)
 * [Server 酱](https://sct.ftqq.com)
 * [息知](https://xz.qqoq.net/#/index)
