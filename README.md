@@ -1,16 +1,15 @@
 # WxMsgPush
-微信公众号推送通知 (PushPlus、WxPusher、Showdoc Push、Server 酱、息知、一封传话、企业微信群机器人)。
+微信公众号推送通知合集。
 
 ## 相关平台
+* [息知](https://xz.qqoq.net/#/index)
 * [PushPlus](https://www.pushplus.plus/)
 * [WxPusher](https://wxpusher.zjiecode.com/docs/#/)
-* [anpush](https://anpush.com/)
-* [wpush](https://wpush.cn/)
 * [Showdoc Push](https://push.showdoc.com.cn/#/)
-* [Server 酱](https://sct.ftqq.com)
-* [息知](https://xz.qqoq.net/#/index)
+* [Server 酱](https://sct.ftqq.com) 免费额度：5次/天
+* [anpush](https://anpush.com/) 免费额度：30次/天
+* [wpush](https://wpush.cn/) 免费额度：200次/天
 * [一封传话](https://www.phprm.com/push/h5/)
-* [企业微信群机器人](https://open.work.weixin.qq.com/api/doc/90000/90136/91770)
 
 ## 鸣谢相关项目
 * [https://github.com/guanguans/laravel-exception-notify](https://github.com/guanguans/laravel-exception-notify)
