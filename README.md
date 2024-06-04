@@ -6,8 +6,8 @@
 * [WxPusher](https://wxpusher.zjiecode.com/docs/#/)
 * [Showdoc Push](https://push.showdoc.com.cn/#/)
 * [PushPlus](https://www.pushplus.plus/) 免费额度：200次/天
-* [wpush](https://wpush.cn/) 免费额度：200次/天
-* [anpush](https://anpush.com/) 免费额度：30次/天
+* [WPUSH](https://wpush.cn/) 免费额度：200次/天
+* [AnPush](https://anpush.com/) 免费额度：30次/天
 * [Server 酱](https://sct.ftqq.com) 免费额度：5次/天
 * [一封传话](https://www.phprm.com/push/h5/)
 
