@@ -9,7 +9,8 @@
 * [WPUSH](https://wpush.cn/) 一对一、群组    (免费额度：200次/天) 
 * [AnPush](https://anpush.com/) 一对一    (免费额度：30次/天)  
 * [Server 酱](https://sct.ftqq.com) 一对一    (免费额度：5次/天)
-* [爱语飞飞](https://iyuu.cn/) 一对一    (20次/小时)  
+* [爱语飞飞](https://iyuu.cn/) 一对一    (20次/小时)
+* [北晓科技]([https://iyuu.cn/](https://www.xxtui.com/) 一对一 
 
 
 ## 鸣谢相关项目
