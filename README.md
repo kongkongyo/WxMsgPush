@@ -12,6 +12,9 @@
 * [Server 酱](https://sct.ftqq.com) 一对一    (免费额度：5次/天)
 * [爱语飞飞](https://iyuu.cn/) 一对一    (20次/小时)
 * [北晓科技](https://www.xxtui.com/) 一对一 
+* [PUSH+](https://pushplus.hxtrip.com/) 一对一 、群组
+* [SERVER饭](https://letserver.run/docs/getting-started/)  一对一  (免费额度：100条/天)
+
 
 
 ## 鸣谢相关项目
