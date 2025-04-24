@@ -14,6 +14,8 @@
 * [北晓科技](https://www.xxtui.com/) 一对一 
 * [PUSH+](https://pushplus.hxtrip.com/) 一对一 、群组
 * [SERVER饭](https://letserver.run/docs/getting-started/)  一对一  (免费额度：100条/天)
+* [NotifyX](https://www.notifyx.cn/)  一对一  (免费额度：100条/天)
+* [MoePush](https://moepush.app/)  
 
 
 
